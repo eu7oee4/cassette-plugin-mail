@@ -2,7 +2,7 @@
   "name": "mail",
   "display_name": "邮箱",
   "description": "TA 自己的邮箱：读信、发信（白名单外的收件人要机主在「草稿信箱」里确认）",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "entry": "mail_mcp.py",
   "tools": ["mail_inbox", "mail_read", "mail_send", "mail_mark"]
 }
